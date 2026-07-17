@@ -4,9 +4,6 @@
 
 a small place to keep every little memory we've made together.
 
-![Preview](./preview.png)
-
-</div>
 
 ## about
 
