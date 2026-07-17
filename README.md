@@ -4,6 +4,7 @@
 
 a small place to keep every little memory we've made together.
 
+</div>
 
 ## about
 
